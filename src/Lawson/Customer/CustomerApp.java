@@ -15,8 +15,6 @@ public class CustomerApp {
 
         //Prints initial information and asks for input
         System.out.println("Welcome to the Customer Viewer \n");
-        System.out.print("Enter a Customer Number: ");
-
 
 
         while (displayAnother.equals("y")  || displayAnother.equals("Y")) {
